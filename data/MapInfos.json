@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":false,"name":"老赵的菜店","order":9,"parentId":0,"scrollX":464,"scrollY":308},
+{"id":2,"expanded":false,"name":"居民宅","order":2,"parentId":0,"scrollX":544,"scrollY":300},
+{"id":3,"expanded":true,"name":"郊外","order":7,"parentId":0,"scrollX":1456,"scrollY":1060},
+{"id":4,"expanded":false,"name":"公园","order":3,"parentId":0,"scrollX":544,"scrollY":300},
+{"id":5,"expanded":false,"name":"海岸","order":1,"parentId":0,"scrollX":786,"scrollY":300},
+{"id":6,"expanded":false,"name":"超市","order":4,"parentId":0,"scrollX":464,"scrollY":316},
+{"id":7,"expanded":false,"name":"中心小镇","order":8,"parentId":0,"scrollX":1616,"scrollY":1480},
+{"id":8,"expanded":false,"name":"主角家中","order":5,"parentId":0,"scrollX":496,"scrollY":300},
+{"id":9,"expanded":false,"name":"家具商店","order":6,"parentId":0,"scrollX":464,"scrollY":316}
+]
