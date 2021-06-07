@@ -1,0 +1,1 @@
+{"version":"LAYAMATERIAL:01","props":{"name":"ML10","cull":2,"blend":0,"srcBlend":1,"dstBlend":0,"alphaTest":false,"alphaTestValue":0.5,"depthWrite":true,"depthTest":513,"renderQueue":1,"albedoIntensity":1.5,"enableLighting":false,"textures":[],"vectors":[{"name":"tilingOffset","value":[1,1,0,0]},{"name":"albedoColor","value":[1,0.5568628,0.01176471,1]}],"defines":[]}}

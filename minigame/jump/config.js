@@ -1,0 +1,3 @@
+var GAME_CFG = {
+	
+};
