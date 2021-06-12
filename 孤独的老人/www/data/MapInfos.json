@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"老赵的菜店","order":5,"parentId":0,"scrollX":464,"scrollY":412},
+{"id":2,"expanded":false,"name":"陌生人的家","order":3,"parentId":0,"scrollX":464,"scrollY":564},
+{"id":3,"expanded":true,"name":"森林小镇","order":1,"parentId":0,"scrollX":1237,"scrollY":1159},
+{"id":4,"expanded":false,"name":"公园","order":6,"parentId":0,"scrollX":544,"scrollY":660},
+{"id":5,"expanded":false,"name":"海岸","order":2,"parentId":0,"scrollX":464,"scrollY":660},
+{"id":6,"expanded":false,"name":"物品商店","order":7,"parentId":0,"scrollX":464,"scrollY":316},
+{"id":7,"expanded":false,"name":"市中心","order":4,"parentId":0,"scrollX":1632,"scrollY":1552},
+{"id":8,"expanded":false,"name":"破败的民居","order":8,"parentId":0,"scrollX":496,"scrollY":660}
+]

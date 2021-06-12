@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"主角老王","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"主角老王","traits":[],"initialLevel":1,"maxLevel":99,"name":"主角老王","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"服装店老张","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"服装店老张","traits":[],"initialLevel":1,"maxLevel":99,"name":"服装店老张","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"农场主老李","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"农场主老李","traits":[],"initialLevel":1,"maxLevel":99,"name":"农场主老李","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"菜店老赵","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"菜店老赵","traits":[],"initialLevel":1,"maxLevel":99,"name":"菜店老赵","nickname":"","note":"","profile":""}
+]
